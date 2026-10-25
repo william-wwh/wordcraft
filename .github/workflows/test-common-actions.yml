@@ -26,3 +26,4 @@ jobs:
       app-name: wordcraft
       require-craft-fonts: false
       craft-fonts-ref: 8dcdacd5153e64560d109541a47d806f26f048c0
+      per-case-trace: true
